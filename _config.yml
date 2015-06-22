@@ -1,0 +1,5 @@
+name: "CollabSCI Wiki"
+decsription: ""
+url: "https://bio-collabit.github.io/wiki"
+paginate: 10
+markdown: rdiscount
