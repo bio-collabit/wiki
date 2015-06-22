@@ -1,5 +1,6 @@
 ---
-Title: Cyberinfrastructure for Collaborative Science
+title: Cyberinfrastructure for Collaborative Science
+layout: default
 ---
 
 # Cyberinfrastructure for Collaborative Science

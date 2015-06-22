@@ -1,5 +1,6 @@
 ---
 title: 2011 Cyberinfrastructure for Collaborative Science Workshop
+layout: default
 ---
 
 # 2011 Cyberinfrastructure for Collaborative Science Workshop 
