@@ -69,46 +69,46 @@ NSF: What is your road map for short-term? This all sounds like "We are working 
 Consider an agile perspective on how to make all this happen: you likely won't do something well before you've taken some iterations.
 
 **Notes from discussion during report-out:**
-* There is not necessarily a hard line between tools for collaborative science and tools for individuals - in fact in many cases tools that are useful to the individual subsequently enable or foster collaboration.
-* Centers have to concern themselves with how to preserve or archive the various artefacts from their science, such as MediaWiki or Plone sites
+> - There is not necessarily a hard line between tools for collaborative science and tools for individuals - in fact in many cases tools that are useful to the individual subsequently enable or foster collaboration.
+> - Centers have to concern themselves with how to preserve or archive the various artefacts from their science, such as MediaWiki or Plone sites
 
 ## Cross-center IT coordination 
 
 ### **What we hope to get**
 
-*Identify expertise to help solve local problems 
-*Evaluate new tech 
-*Identify shared problems to ask for new funding 
-*Cross-training funding opportunities 
-*Mechanism for coordinating teaching goals to working groups, also teaching materials (slides, videos,…) 
-*Annual face to face meeting of IT staff from different centers
+> - Identify expertise to help solve local problems 
+> - Evaluate new tech 
+> - Identify shared problems to ask for new funding 
+> - Cross-training funding opportunities 
+> - Mechanism for coordinating teaching goals to working groups, also teaching materials (slides, videos,…) 
+> - Annual face to face meeting of IT staff from different centers
 
 ### **Action plan**
 
-*Monthly virtual brown bag lunch: describe targeted audience for each (i.e., sysadmins for wikis). Have talks about how a certain technology was chosen, what is coming down the road from DataOne, intro to a new technology, etc. Try different technologies to experiment (via EVO one meeting, via Adobe Connect another): Shaun Walbridge, NCEAS 
-  *First meeting topic is what each center does (then put this on the IT wiki)<br> 
-  *Other potential meeting topics<br> 
-    *Open source licensing 
-    *Licensing of data 
-	*Licensing of commercial software (i.e., buying software) 
-    *Common user training 
-    *How to bootstrap a new synthesis center: Mike Smourl, EnSync 
-      *List of what you need to start a center (white paper?) 
-      *Maybe even a virtual image or a set of installers 
-    *User authentication -- cross center? even different systems within centers 
-    *Data and metadata management 
-    *Dealing with infrastructure of servers (cloud, VM, standard) 
-    *NEAD and similar visitor hosting infrastructure 
-    *Suggestions for best practices<br>
-*[Mailing list of people](2011 Workshop/Links#Cross-center Collaborative Science IT Support mailing list.html)(allow opt in): Eric Carr, NIMBioS *Done.* 
-*[Center IT Wiki](Main Page.html): use collab sci wiki currently hosted at NESCent. Use OpenID. Vladimir Gapeyev, NESCent *Done.*
-*Open iPlant tech meetings (intros to technologies) to the group. Same for other centers: Eric Lyons, iPlant; others as they come up 
-*Outreach to BEACON (NSF), also Canadian Center for Ecology, other groups with significant overlap to get them involved once the meetings start going
+* Monthly virtual brown bag lunch: describe targeted audience for each (i.e., sysadmins for wikis). Have talks about how a certain technology was chosen, what is coming down the road from DataOne, intro to a new technology, etc. Try different technologies to experiment (via EVO one meeting, via Adobe Connect another): Shaun Walbridge, NCEAS 
+  * First meeting topic is what each center does (then put this on the IT wiki)<br> 
+  * Other potential meeting topics<br> 
+    * Open source licensing 
+    * Licensing of data 
+	* Licensing of commercial software (i.e., buying software) 
+    * Common user training 
+    * How to bootstrap a new synthesis center: Mike Smourl, EnSync 
+      * List of what you need to start a center (white paper?) 
+      * Maybe even a virtual image or a set of installers 
+    * User authentication -- cross center? even different systems within centers 
+    * Data and metadata management 
+    * Dealing with infrastructure of servers (cloud, VM, standard) 
+    * NEAD and similar visitor hosting infrastructure 
+    * Suggestions for best practices<br>
+* [Mailing list of people](2011 Workshop/Links#Cross-center Collaborative Science IT Support mailing list.html)(allow opt in): Eric Carr, NIMBioS *Done.* 
+* [Center IT Wiki](Main Page.html): use collab sci wiki currently hosted at NESCent. Use OpenID. Vladimir Gapeyev, NESCent *Done.*
+* Open iPlant tech meetings (intros to technologies) to the group. Same for other centers: Eric Lyons, iPlant; others as they come up 
+* Outreach to BEACON (NSF), also Canadian Center for Ecology, other groups with significant overlap to get them involved once the meetings start going
 
 ### **NSF support for coordination (even supplemental grants)**
 
-*Travel grants: mini sabbaticals for training 
-*Technology with high cost of entry
+* Travel grants: mini sabbaticals for training 
+* Technology with high cost of entry
 
 ### **Report-out Discussion**
 
