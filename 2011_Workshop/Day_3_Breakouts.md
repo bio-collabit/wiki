@@ -9,39 +9,39 @@ layout: default
 (also see [origional notes on PiratePad](http://piratepad.net/collabsci-fri-strategic-directions) 
 
 Two key questions:
-  1.What kind of infrastructure research to fund, what questions should be asked? 
-  2.Who needs to be involved, what structure is needed to sustain its outcomes?
+ > 1.What kind of infrastructure research to fund, what questions should be asked? 
+ > 2.Who needs to be involved, what structure is needed to sustain its outcomes?
 
 CI supports more than collaboration; also supports shared resources. What groups depend on what resources from other groups?
 
 What is the landscape of the fields (such as resources for data, methods, etc) groups of people that want to collaborate?
 
 CI has different levels of granularity; everyone has a different concepts of this; similar to level of analysis in research. Can we define these levels:
-* low level: sharing data
-* higher level: interoperable data / tools
++ low level: sharing data
++ higher level: interoperable data / tools
 
 Dichotomy between people who want to share (use) data and those that don't want to share (their) data. What part of system benefits the collectors? How do we get to a critical mass of people sharing data?
-* A DataONE postdoc is researching incentives to and benefits of data sharing. 
-* embedding provenance in data can benefit individual scientists (searching, reusing their own data)
++ A DataONE postdoc is researching incentives to and benefits of data sharing. 
++ embedding provenance in data can benefit individual scientists (searching, reusing their own data)
 
 Two meanings of sharing data
-* just making raw data available
-* making additional information / social context available (i.e. access to the scientist, the underlying research); facilitating discussion about data; one example is MyPlant.org (and iPlant social network for plant biologists)
++ just making raw data available
++ making additional information / social context available (i.e. access to the scientist, the underlying research); facilitating discussion about data; one example is MyPlant.org (and iPlant social network for plant biologists)
 
 CI provides ability to have access to data or methods without developing a new collaboration, or using intergrads to collect from literature; access to larger body of knowledge
-* Challenge with legacy data (data that is not archived in repositories). "Career sets", data accumulated by a senior scientists over their career lifetime. Many times current research is not reproducing the same data points, so the only way to obtain them from (for synthesis) is legacy data.
++ Challenge with legacy data (data that is not archived in repositories). "Career sets", data accumulated by a senior scientists over their career lifetime. Many times current research is not reproducing the same data points, so the only way to obtain them from (for synthesis) is legacy data.
 
 What is the role of the synthesis centers? Supporting individual scientists / groups? Developing domain-specific resources? Looking broadly across domains?
-* Synthesis centers seem to be in a unique position to look for patterns and similarities across domains (across centers).
-* The products of broader aimed CI initiatives often overlap surprisingly little with the gaps faced by scientists supported at the centers.
-* There is a need for stewardship role for community resources (example: TreeBASE) that should expand among the centers.
-* Also an education role (increasing community capacity), for resident scientists, for broader community through hackathons and courses
++ Synthesis centers seem to be in a unique position to look for patterns and similarities across domains (across centers).
++ The products of broader aimed CI initiatives often overlap surprisingly little with the gaps faced by scientists supported at the centers.
++ There is a need for stewardship role for community resources (example: TreeBASE) that should expand among the centers.
++ Also an education role (increasing community capacity), for resident scientists, for broader community through hackathons and courses
 
 Are synthesis centers the right place to do this?
-* short-term funding; how does that relate to long-term projects and stewardship
-* Data Conservancy plays this role (also DataONE); will these become permanant organizations?
-* institutions that host DC will not go away, exploring models for permanancy; expanding existing role of libraries
-* synthesis centers can fill this gap between initial funding and permanent home for repositories; perhaps institutional repositories can also fill this gap
++ short-term funding; how does that relate to long-term projects and stewardship
++ Data Conservancy plays this role (also DataONE); will these become permanant organizations?
++ institutions that host DC will not go away, exploring models for permanancy; expanding existing role of libraries
++ synthesis centers can fill this gap between initial funding and permanent home for repositories; perhaps institutional repositories can also fill this gap
 
 Role of broader initiatives that go beyond boundaries for synthesis centers
 * DataONE
