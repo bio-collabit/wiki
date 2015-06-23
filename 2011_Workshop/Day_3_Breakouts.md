@@ -6,7 +6,7 @@ layout: default
 # 2011 Workshop/Day 3 Breakouts
 ## Strategic directions for synthesis centers 
 
-(also see [origional notes on PiratePad](http://piratepad.net/collabsci-fri-strategic-directions) )
+(also see [original notes on PiratePad](http://piratepad.net/collabsci-fri-strategic-directions) )
 
 Two key questions:
  > 1.What kind of infrastructure research to fund, what questions should be asked? 
