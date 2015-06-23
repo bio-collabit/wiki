@@ -76,12 +76,12 @@ Consider an agile perspective on how to make all this happen: you likely won't d
 
 ### **What we hope to get**
 
-> - Identify expertise to help solve local problems 
-> - Evaluate new tech 
-> - Identify shared problems to ask for new funding 
-> - Cross-training funding opportunities 
-> - Mechanism for coordinating teaching goals to working groups, also teaching materials (slides, videos,…) 
-> - Annual face to face meeting of IT staff from different centers
+* Identify expertise to help solve local problems 
+* Evaluate new tech 
+* Identify shared problems to ask for new funding 
+* Cross-training funding opportunities 
+* Mechanism for coordinating teaching goals to working groups, also teaching materials (slides, videos,…) 
+* Annual face to face meeting of IT staff from different centers
 
 ### **Action plan**
 
