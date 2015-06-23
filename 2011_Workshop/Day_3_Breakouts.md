@@ -18,19 +18,19 @@ CI supports more than collaboration; also supports shared resources. What groups
 What is the landscape of the fields (such as resources for data, methods, etc) groups of people that want to collaborate?
 
 CI has different levels of granularity; everyone has a different concepts of this; similar to level of analysis in research. Can we define these levels:
-> - low level: sharing data
-> - higher level: interoperable data / tools
+- low level: sharing data
+- higher level: interoperable data / tools
 
 Dichotomy between people who want to share (use) data and those that don't want to share (their) data. What part of system benefits the collectors? How do we get to a critical mass of people sharing data?
-> - A DataONE postdoc is researching incentives to and benefits of data sharing.
-> - embedding provenance in data can benefit individual scientists (searching, reusing their own data)
+- A DataONE postdoc is researching incentives to and benefits of data sharing.
+- embedding provenance in data can benefit individual scientists (searching, reusing their own data)
 
 Two meanings of sharing data
 - just making raw data available
--making additional information / social context available (i.e. access to the scientist, the underlying research); facilitating discussion about data; one example is MyPlant.org (and iPlant social network for plant biologists)
+- making additional information / social context available (i.e. access to the scientist, the underlying research); facilitating discussion about data; one example is MyPlant.org (and iPlant social network for plant biologists)
 
 CI provides ability to have access to data or methods without developing a new collaboration, or using intergrads to collect from literature; access to larger body of knowledge
-+ Challenge with legacy data (data that is not archived in repositories). "Career sets", data accumulated by a senior scientists over their career lifetime. Many times current research is not reproducing the same data points, so the only way to obtain them from (for synthesis) is legacy data.
+- Challenge with legacy data (data that is not archived in repositories). "Career sets", data accumulated by a senior scientists over their career lifetime. Many times current research is not reproducing the same data points, so the only way to obtain them from (for synthesis) is legacy data.
 
 What is the role of the synthesis centers? Supporting individual scientists / groups? Developing domain-specific resources? Looking broadly across domains?
 + Synthesis centers seem to be in a unique position to look for patterns and similarities across domains (across centers).
