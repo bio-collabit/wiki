@@ -18,12 +18,12 @@ CI supports more than collaboration; also supports shared resources. What groups
 What is the landscape of the fields (such as resources for data, methods, etc) groups of people that want to collaborate?
 
 CI has different levels of granularity; everyone has a different concepts of this; similar to level of analysis in research. Can we define these levels:
-- low level: sharing data
-- higher level: interoperable data / tools
+> - low level: sharing data
+> - higher level: interoperable data / tools
 
 Dichotomy between people who want to share (use) data and those that don't want to share (their) data. What part of system benefits the collectors? How do we get to a critical mass of people sharing data?
-- A DataONE postdoc is researching incentives to and benefits of data sharing.
-- embedding provenance in data can benefit individual scientists (searching, reusing their own data)
+> - A DataONE postdoc is researching incentives to and benefits of data sharing.
+> - embedding provenance in data can benefit individual scientists (searching, reusing their own data)
 
 Two meanings of sharing data
 - just making raw data available
