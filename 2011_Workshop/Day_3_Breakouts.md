@@ -39,30 +39,30 @@ What is the role of the synthesis centers? Supporting individual scientists / gr
 > - Also an education role (increasing community capacity), for resident scientists, for broader community through hackathons and courses
 
 Are synthesis centers the right place to do this?
-+ short-term funding; how does that relate to long-term projects and stewardship
-+ Data Conservancy plays this role (also DataONE); will these become permanant organizations?
-+ institutions that host DC will not go away, exploring models for permanancy; expanding existing role of libraries
-+ synthesis centers can fill this gap between initial funding and permanent home for repositories; perhaps institutional repositories can also fill this gap
+> - short-term funding; how does that relate to long-term projects and stewardship
+> - Data Conservancy plays this role (also DataONE); will these become permanant organizations?
+> - institutions that host DC will not go away, exploring models for permanancy; expanding existing role of libraries
+> - synthesis centers can fill this gap between initial funding and permanent home for repositories; perhaps institutional repositories can also fill this gap
 
 Role of broader initiatives that go beyond boundaries for synthesis centers
-* DataONE
-* government initiatives to coordinate national labs
-* national efforts for veterens hospitals (huge effort; thousands of programmers)
-* Earth Science Information Partners (ESIP) across earth sciences is a great example, connected to DAACs (Digital Active Archive Centers)
-* SONet (Scientific Observation Network); aim is to bring people who work on observational data together; find common level of abstraction across disciplines
+> - DataONE
+> - government initiatives to coordinate national labs
+> - national efforts for veterens hospitals (huge effort; thousands of programmers)
+> - Earth Science Information Partners (ESIP) across earth sciences is a great example, connected to DAACs (Digital Active Archive Centers)
+> - SONet (Scientific Observation Network); aim is to bring people who work on observational data together; find common level of abstraction across disciplines
 
 Common problem: extracting knowledge from natural language text
 
 Medium-term support 
-* after initial grant is over and before long-term sustainability
-* need maintenance, support, minimal development
-* treebase, vegnet are examples; still a used resource but no direct funding
+> - after initial grant is over and before long-term sustainability
+> - need maintenance, support, minimal development
+> - treebase, vegnet are examples; still a used resource but no direct funding
 
 Four key roles for CI
-  1. preserve data (and other stuff - workflows, tools, etc.)
-  2. share community resources / tools
-  3. connect people with people, people with resources and resources with resources
-  4. support scientitic process, and specifically the collaborative and integrative science process
+>  1. preserve data (and other stuff - workflows, tools, etc.)
+>  2. share community resources / tools
+>  3. connect people with people, people with resources and resources with resources
+>  4. support scientitic process, and specifically the collaborative and integrative science process
 
 NSF: What is your road map for short-term? This all sounds like "We are working on it". How do we connect this discussion to the discussion in the other room about what is currently happening in synthesis centers?
 
