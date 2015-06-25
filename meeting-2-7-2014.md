@@ -9,9 +9,9 @@ layout: default
 * Call time: 1-10-2014, 2pm EST
 * Connection Information:      
   * Microsoft Lync
-  * https://meet.sesync.org/msmorul/Q8MJGHJP
+  * [https://meet.sesync.org/msmorul/Q8MJGHJP](https://meet.sesync.org/msmorul/Q8MJGHJP.html)
   * 1-855-454-3943, code: 35683
-  * [Connection Instructions](Media:Lync_Instructions_-_remote.pdf)
+  * [Connection Instructions](Lync_Instructions_-_remote.pdf)
 
 ## Agenda
 
