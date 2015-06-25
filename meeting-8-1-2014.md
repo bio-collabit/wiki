@@ -12,7 +12,7 @@ layout: default
   * Microsoft Lync
   * [https://meet.sesync.org/msmorul/VNCZ30N0]([https://meet.sesync.org/msmorul/VNCZ30N0.html)
   * 1-855-454-3943, code: 98127
-  * [Connection Instructions](structions_-_remote.pdf)
+  * [Connection Instructions](Lync_Instructions_-_remote.pdf)
 
 ## Agenda 
 * Data Carpentry, feedback from sesync, beacon
