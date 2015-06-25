@@ -21,33 +21,33 @@ At the end of the workshop we will have identified 2-3 low hanging fruit project
 ## Agenda 
 ## Day 1
 
-8:30 - 9:00  Breakfast
-9:00 – 9:45  Introductions and Welcome
-9:45 – 10:30 Invited talks 
+* 8:30 - 9:00  Breakfast
+* 9:00 – 9:45  Introductions and Welcome
+* 9:45 – 10:30 Invited talks 
   * 9:45 - Edwin Skidmore - iPlant - iPlant CI Development In a Nutshell
   * 10:10 - Michael Denslow - NEON - Notes from Nature: a tool for citizen science engagement and transcription of natural history collection records.
-10:35 - 11:00  Coffee Break
-10:45 – 12:30  Strengths and Problems at each center
-12:30 - 1:30   Lunch
-1:30 - 2:30    Identification of topics, Shared technical issues and Visionary Projects
+* 10:35 - 11:00  Coffee Break
+* 10:45 – 12:30  Strengths and Problems at each center
+* 12:30 - 1:30   Lunch
+* 1:30 - 2:30    Identification of topics, Shared technical issues and Visionary Projects
   * Part I: Low hanging fruit, what can we solve today
   * Part II: Visionary projects, what new products can we create by working together
-3:30 – 3:45    Coffee Break
-3:45 - 5:15    Breakout groups, project identification
-5:15-5:45      Happy Hour and informal group report back.
+* 3:30 – 3:45    Coffee Break
+* 3:45 - 5:15    Breakout groups, project identification
+* 5:15-5:45      Happy Hour and informal group report back.
 
 ## Day 2
 
-8:30 - 9:00  Breakfast
-9:00 - 10:30 Identification of specific projects that can be completed w/in the next 6-12mo. 
-10:30 - 10:45 Coffee Break
-10:45 - 12:30 Breakout groups based on specific projects identified. Group members self-identify
+* 8:30 - 9:00  Breakfast
+* 9:00 - 10:30 Identification of specific projects that can be completed w/in the next 6-12mo. 
+* 10:30 - 10:45 Coffee Break
+* 10:45 - 12:30 Breakout groups based on specific projects identified. Group members self-identify
   * Groups should come up with an implementation plan
   * Identification of project lead.
   * Specific set of deliverables
-12:30 - 1:30 Lunch
-1:30 - 2:30  Continuation of breakout groups
-2:30 - 4:00  Plenary, discussion of projects, overall implementation.
+* 12:30 - 1:30 Lunch
+* 1:30 - 2:30  Continuation of breakout groups
+* 2:30 - 4:00  Plenary, discussion of projects, overall implementation.
 
 * Discussion of each specific project, feasibility, commitment.
 
