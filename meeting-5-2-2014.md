@@ -10,7 +10,7 @@ layout: default
 * Call time: 5-2-2014,2pm  EDT
 * Connection Information:      
   * Microsoft Lync
-  * https://meet.sesync.org/msmorul/D9Z26QKL
+  * [https://meet.sesync.org/msmorul/D9Z26QKL](https://meet.sesync.org/msmorul/D9Z26QKL.html)
   * 1-855-454-3943, code: 84572
   * [Connection Instructions](Lync_Instructions_-_remote.pdf)
 
