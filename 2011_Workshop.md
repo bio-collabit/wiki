@@ -35,9 +35,9 @@ We encourage you to use the wiki to keep notes from your discussions. This page 
 
 ### Workshop documentation and products 
 
-* [Agenda](2011 Workshop/Agenda.html) and [Participants](2011 Workshop/Participants.html)
-* [List of all documentation](2011 Workshop/Documents.html)
-* [Presentation slides and concept map](2011 Workshop/Documents#Presentation slides and other online artifacts.html)
-* [Notes from Day 1 Breakout groups](2011 Workshop/Day 1 Breakouts.html)
-* [Notes from Day 2 Unconference sessions](2011 Workshop/Day 2 Unconference.html)
-* [Notes from Day 3 Breakouts](2011 Workshop/Day 3 Breakouts.html) and [Wrap-up](2011 Workshop/Day 3 Wrapup.html)
+* [Agenda](Agenda.html) and [Participants](Participants.html)
+* [List of all documentation](Documents.html)
+* [Presentation slides and concept map](Presentation_slides_and_other_online_artifacts.html)
+* [Notes from Day 1 Breakout groups](Day_1_Breakouts.html)
+* [Notes from Day 2 Unconference sessions](Day_2_Unconference.html)
+* [Notes from Day 3 Breakouts](Day_3_Breakouts.html) and [Wrap-up](Day_3_Wrapup.html)
