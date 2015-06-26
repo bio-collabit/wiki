@@ -12,11 +12,11 @@ Slides for talks are also linked to from the [Meeting agenda](Agenda.html)
 
 **Introduction** 
 
-*[Overview, goals, and structure of the workshop](CI_Summit_Intro.pdf) (Hilmar Lapp, NESCent)
+* [Overview, goals, and structure of the workshop](CI_Summit_Intro.pdf) (Hilmar Lapp, NESCent)
 
 **Mind-mapping exercise** 
 
-*[What comes to mind when you think about cyberinfrastructure for collaborative science?](Concept_map_collabsci.pdf) 
+* [What comes to mind when you think about cyberinfrastructure for collaborative science?](Concept_map_collabsci.pdf) 
 
 **Panel: How will cyberinfrastructure capabilities shape the future of scientific collaboration?**
 
