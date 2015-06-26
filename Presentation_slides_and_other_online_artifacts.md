@@ -1,8 +1,8 @@
 ---
-title: 2011 Workshop/Documents
+title: Presentation slides and other online artifacts
 layout: default
 ---
-# 2011 Workshop/Documents
+# Presentation slides and other online artifacts
 
 We encourage you to use the wiki to keep notes from your discussions. This page provides basic formatting as a starting point. 
 
