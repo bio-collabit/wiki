@@ -704,6 +704,7 @@ What are next steps:
 **Participants:** Karen Cranston, Lizzie Wolkovich, David Huynh, Eric Carr, Mark Schildhauer 
 
 **Challenges:**
+
 * Agenda is different between fields-- i.e. comp sci vs biology/env sci 
 * Domain scientists are not interested in process or testing, but in end products and reliable functionality 
 * Software engineers vs computer scientists: must narrow the gap; must learn one another's vocabularies 
@@ -727,6 +728,7 @@ What are next steps:
 *the CI scientists / people passionate about CI are distanced from the other scientists (no longer close to the data)
 
 **Opportunities:**
+
 * build cadre "scientific programmers" 
 * must support and encourage those rare people who are proficient in both domains 
 * What might be role of industry, e.g. Google, in developing technologies "we" need? E.g. Google Refine...could assist with data confederation issues 
@@ -736,4 +738,5 @@ What are next steps:
 * Synthesis centers are changing the perception about the role of "analysts" in the creative process of science, viz. elevating their status.&nbsp; Is still lingering perception that there is no creativity in that role.
 
 **Report-out discussion notes**
+
 * Concern that adding new non-domain specialties (such as HCI) may be too much for domain scientists who are already having to work with a CI person. This could be more alienating than helpful.
