@@ -110,9 +110,9 @@ Consider an agile perspective on how to make all this happen: you likely won't d
 
 * [Mailing list of people](Cross-center_Collaborative_Science_IT_Support_mailing_list.html) (allow opt in): Eric Carr, NIMBioS **Done.**
 
-* [Center IT Wiki](Main_Page.html) use collab sci wiki currently hosted at NESCent. Use OpenID. Vladimir Gapeyev, NESCent **Done.**
+* [Center IT Wiki](index.html) use collab sci wiki currently hosted at NESCent. Use OpenID. Vladimir Gapeyev, NESCent **Done.**
 
-* [Center IT Wiki]([Main_Page.html): use collab sci wiki currently hosted at NESCent. Use OpenID. Vladimir Gapeyev, NESCent **Done.** 
+* [Center IT Wiki]([index.html): use collab sci wiki currently hosted at NESCent. Use OpenID. Vladimir Gapeyev, NESCent **Done.** 
 * Open iPlant tech meetings (intros to technologies) to the group. Same for other centers: Eric Lyons, iPlant; others as they come up 
 * Outreach to BEACON (NSF), also Canadian Center for Ecology, other groups with significant overlap to get them involved once the meetings start going
 
