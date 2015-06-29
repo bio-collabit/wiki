@@ -744,12 +744,12 @@ What are next steps:
 * The programmers sometimes have to go to the scientists (*I put on scrubs and go down to the OR to talk to the neurosurgeon I collaborate with*) 
 * NIH funding: can never include computer science development, always couched in terms of medical advances 
 * What can we do about that challenge (lack of time from scientists)? 
-  *choosing the right domain scientists? 
-  *who are the right technologists? (noting that they are generally funded to do this task, unlike the scientists) 
-*if we train the biologists too much, they don't need CI capabilities (they can do it themselves) 
-*the other scientists can't inform the CI development 
-*devalued CI as a research field 
-*the CI scientists / people passionate about CI are distanced from the other scientists (no longer close to the data)
+  * choosing the right domain scientists? 
+  * who are the right technologists? (noting that they are generally funded to do this task, unlike the scientists) 
+* if we train the biologists too much, they don't need CI capabilities (they can do it themselves) 
+* the other scientists can't inform the CI development 
+* devalued CI as a research field 
+* the CI scientists / people passionate about CI are distanced from the other scientists (no longer close to the data)
 
 **Opportunities:**
 
