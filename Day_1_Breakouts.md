@@ -8,6 +8,30 @@ layout: default
 
 See also notes on [report-out Etherpad](http://piratepad.net/collabsci-wed-reportout.html) 
 
+Break-out group 1: Questions
+
+* Shouldn't be dictating the science
+* Should not be so easy to lose the understanding of what is going on
+* Controversy between too few and too many methods for the same probles; need to allow for diversity, yet poor methods need to die out
+
+Break-out group 3:
+
+1. Raw and derived data
+2. Provenance data
+3. Reports, tables, graphs
+4. Observational data with semantically rich metadata
+5. Workflows
+6. Source code, ideally with source code
+7. Theory and assumptions
+
+* All are really necessary, so can't really choose - this is more w.r.t. a CI feature roll-out timetable
+* There was a lot more discussion but the above came out as priority based on voting
+* Provenance and what is the boundary between data and metadata
+* Should have more robust archive for the things above.
+* This may really be multiple CIs rather than one
+* Minimum requirement should be the reusability of the data (or methods). So archiving requirements should be stated in that context. Data being available does not imply that one can reuse it.
+* Could extract workflow from publications, but raw data are lost, impossible to extract.
+
 ### **Group 1: Low barriers to entry and Fitting CI to the Science**  
 
 Two over-arching themes: 
