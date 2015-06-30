@@ -23,7 +23,7 @@ Slides for talks are also linked to from the [Meeting agenda](Agenda.html)
 * [Open science, open-source, and sharing of data, models, and analyses](CI_Summit_-_Open_Science,_open_source,_open_data.pdf) (Hilmar Lapp, NESCent) 
 * Social computing (Dana Rotman, University of Maryland) 
 * Data-driven science: the importance of objectivity and evidence (Mark Schildhauer, NCEAS) 
-* [Social dimensions of collaboration in synthesis centers](CI Summit John Parker.ppt)(John Parker, NCEAS)
+* [Social dimensions of collaboration in synthesis centers](CI_Summit_John_Parker.pdf)(John Parker, NCEAS)
 
 ## Day 1 Break-out groups
 
