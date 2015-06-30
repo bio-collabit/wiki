@@ -17,4 +17,4 @@ layout: default
 
 ## Agenda 
 * October all hands meeting agenda
-  * [[All-hands-2014]]
+  * [All-hands-2014](all-hands-2014.html)
