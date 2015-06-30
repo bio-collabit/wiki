@@ -498,7 +498,7 @@ Dislike:
 
 ### Software recommendations  
 
-[Report-out (in the form of slides with tables)](Sofrware.pdf)
+[Report-out (in the form of slides with tables)](Software.pdf)
 
 Discussion notes:
 
