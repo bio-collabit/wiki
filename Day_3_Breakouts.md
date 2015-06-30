@@ -8,6 +8,43 @@ layout: default
 
 (also see [origional notes on PiratePad](http://piratepad.net/collabsci-fri-strategic-directions) )
 
+In case the link to pirate pad does not work, here are the following notes from the original link: 
+
+**What worked well?**
+
+* unconference day! allowed for interaction with many different people
+* learning what others are doing, esp. coming from different backgrounds
+* mind-mapping as a starting point
+* large number (critical mass) of social scientists
+* getting perspective of our work from other domains (what do domain scientists think about informatics folks, etc)
+* finding out that everyone is dealing with the same problems
+* facilitation, note-taking and reporting was unstructured and worked out well, rotated among participants
+* avoiding death by powerpoint, long introductions at the beginning
+
+**What could we do differently next time?**
+
+* scoping down; narrow the discussions; examine particular use-cases
+* allow more people to give presentations about their experiences with CI development; can criticize and develop these visuals rather than brainstorming again
+* disentangle various aspects of CI
+* domain scientists: do they need a process to collaborate before the workshop to get more input from their domain in advance of the meeting? a pre-workshop?
+* better way of during report-outs, allow more time for discussion
+* not plan the whole unconference in advance, leave tracks open
+* NSF:
+  * get past general question about what synthesis centers can do and break down into what can be done? 
+  * didn't hear about many things: need to integrate diverse models, run processes at large scales; new model integration; new visualizations
+  * many workshops already on data sharing
+  * really get to discussion about science that we want to do but can't do now
+* invite some skeptics next time
+* focus along some cross-domain questions that span synthesis centers
+* demos / showcase of the various systems that we are talking about 
+* flip structure around; start from bottom; what do people like and dislike about current infrastructure?
+* more materials ahead of time to review; know participant list in advance
+
+**Comments beyond workshop structure**
+
+* helpdesk for center collaboration; accumulate pain and success stories about various needs and tools
+* informatics staff swap!
+
 Two key questions:
  1. What kind of infrastructure research to fund, what questions should be asked? 
  2. Who needs to be involved, what structure is needed to sustain its outcomes?
