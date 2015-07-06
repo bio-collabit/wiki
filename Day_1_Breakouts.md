@@ -76,7 +76,7 @@ Notes from following discussion:
 
 (Ordered by group rankings) 
 
-[May18-breakouts-group2-summary1.jpg](File-May18-breakouts-group2-summary1.jpg)
+[May18-breakouts-group2-summary1](May18-breakouts-group2-summary1.jpg)
 [May18-breakouts-group2-summary2.jpg](File-May18-breakouts-group2-summary2.jpg)
 
 1. Risk aversion 
