@@ -107,7 +107,7 @@ Model is Biological Ontologies center.  Biosharing.org is a resource in this dom
 
 ### What is a minimal CI acceptable / Think about CI bottom-up  
 
-(see also [raw notes](Media:May-19-track1-minimal-CI.doc.html) by Mike Smorul)
+(see also [raw notes](Media:May-19-track1-minimal-CI.doc) by Mike Smorul)
 
 Participants: Chris Baron, Shaun Walbridge, David Huyhn, Suzie Allard, *Massimo Di Pierro* , Mike Smorul, *Vladimir Gapeyev*. [All but one are IT people; no domain scientists...] 
 
