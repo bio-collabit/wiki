@@ -100,8 +100,8 @@ Notes from following discussion:
 
 (Ordered by group rankings) 
 
-[May18-breakouts-group2-summary3.jpg](May18-breakouts-group2-summary3.jpg)
-[May18-breakouts-group2-summary4.jpg](May18-breakouts-group2-summary4.jpg)
+[May18-breakouts-group2-summary3.jpg](images/May18-breakouts-group2-summary3.jpg)
+[May18-breakouts-group2-summary4.jpg](images/May18-breakouts-group2-summary4.jpg)
 
 * Reward risk-taking 
   * Expand what we define as success and credit in the academic setting 
