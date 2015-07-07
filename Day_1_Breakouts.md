@@ -77,7 +77,7 @@ Notes from following discussion:
 (Ordered by group rankings) 
 
 [May18-breakouts-group2-summary1.jpg](May18-breakouts-group2-summary1.jpg)
-[May18-breakouts-group2-summary2.jpg](File-May18-breakouts-group2-summary2.jpg)
+[May18-breakouts-group2-summary2.jpg](May18-breakouts-group2-summary2.jpg)
 
 1. Risk aversion 
   * Loss of control 
@@ -100,8 +100,8 @@ Notes from following discussion:
 
 (Ordered by group rankings) 
 
-[May18-breakouts-group2-summary3.jpg](File-May18-breakouts-group2-summary3.jpg)
-[May18-breakouts-group2-summary4.jpg](File-May18-breakouts-group2-summary4.jpg)
+[May18-breakouts-group2-summary3.jpg](May18-breakouts-group2-summary3.jpg)
+[May18-breakouts-group2-summary4.jpg](May18-breakouts-group2-summary4.jpg)
 
 * Reward risk-taking 
   * Expand what we define as success and credit in the academic setting 
@@ -120,10 +120,10 @@ Notes from following discussion:
 * Linking publication with data deposition, dissemination, standardization, and cyberinfrastructure.
 
 #### Raw flipchart notes 
-[May18-breakouts-group2-notes1.jpg](File-May18-breakouts-group2-notes1.jpg)
-[May18-breakouts-group2-notes2.jpg](File-May18-breakouts-group2-notes2.jpg)
-[May18-breakouts-group2-notes3.jpg](File-May18-breakouts-group2-notes3.jpg)
-[May18-breakouts-group2-notes4.jpg](File-May18-breakouts-group2-notes4.jpg)
+[May18-breakouts-group2-notes1.jpg](May18-breakouts-group2-notes1.jpg)
+[May18-breakouts-group2-notes2.jpg](May18-breakouts-group2-notes2.jpg)
+[May18-breakouts-group2-notes3.jpg](May18-breakouts-group2-notes3.jpg)
+[May18-breakouts-group2-notes4.jpg](May18-breakouts-group2-notes4.jpg)
 
 ### Group 3: Products and processes of scientific research that need to be shared  
 
